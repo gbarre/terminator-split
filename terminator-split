@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 """terminator-split
 
@@ -15,8 +15,8 @@ import tempfile
 import configobj
 
 __author__ = 'Aleksey Chudov <aleksey.chudov@gmail.com>'
-__date__ = '23 Nov 2018'
-__version__ = '1.0.4'
+__date__ = '18 Jun 2021'
+__version__ = '1.0.5'
 
 
 class TerminatorSplit(object):

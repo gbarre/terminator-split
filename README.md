@@ -1,4 +1,5 @@
 # terminator-split
+
 Wrapper script for splitting Terminator terminal emulator
 
 ```shell
@@ -37,10 +38,10 @@ Note that the username can also be specified as part of the servername. Eg:
 terminator-split -m user1@server1 user2@server2 user3@server3 user4@server4
 ```
 
-![](https://github.com/AlekseyChudov/terminator-split/blob/master/images/terminator-split-4.png?raw=true)
+![split-4](https://github.com/AlekseyChudov/terminator-split/blob/master/images/terminator-split-4.png?raw=true)
 
 ```shell
 terminator-split -m 8
 ```
 
-![](https://github.com/AlekseyChudov/terminator-split/blob/master/images/terminator-split-8.png?raw=true)
+![split-8](https://github.com/AlekseyChudov/terminator-split/blob/master/images/terminator-split-8.png?raw=true)
